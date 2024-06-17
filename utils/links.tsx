@@ -24,3 +24,5 @@ const links:Array<NavLink>=[
     },
 ];
 
+export default links;
+
